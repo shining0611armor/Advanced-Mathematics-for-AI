@@ -1,7 +1,7 @@
 # 🧮 Mathematics for Artificial Intelligence – Fall 2024  
 📍 **K. N. Toosi University of Technology**  
 👨‍🏫 **Instructor:** Dr. Behrooz Nasihatkon  
-🧑‍🏫 **Head Teaching Assistants:** Mehran Tamjidi 
+🧑‍🏫 **Head Teaching Assistant:** Mehran Tamjidi 
 
 
 📘 **Course Level:** Master’s & PhD
