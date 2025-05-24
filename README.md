@@ -1,4 +1,4 @@
-# 🧮 Mathematics for Artificial Intelligence – Fall 2024  
+# 🧮 Advanced Mathematics for Machine Learning – Fall 2024  
 📍 **K. N. Toosi University of Technology**  
 👨‍🏫 **Instructor:** Dr. Behrooz Nasihatkon  
 🧑‍🏫 **Head Teaching Assistant:** Mehran Tamjidi 
